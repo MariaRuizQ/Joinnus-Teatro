@@ -12,15 +12,15 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 ### Entrevistas y Encuestas:
 
   Realizamos entrevistas y encuestas para conocer los requerimientos y necesidades de lo usuarios a la hora de adquirir tickets de forma online para asistir a una función de teatro.
-  Para ello nos enfocamos en el público asistentes del Teatro Luigi Pirandello y usuarios potenciales.
+  Para ello nos enfocamos en el público asistentes del Teatro Luigi Pirandello y usuarios potenciales; con el fin de conocer sus apreciaciones antes, durantes y después del proceso de compra de tickets y su experiencia durante el uso de la web (Atrápalo Perú y Teleticket Perú).
 
   * Conclusiones de las Entrevistas
 
-  ![Entrevistas](assets/images/1.png)
+  ![Entrevistas](assets/images/.png)
 
   * Resultados de las encuestas online
 
-  ![Encuestas](assets/images/2.png)
+  ![Encuestas](assets/images/.png)
 
 ### Etapa Previa:
 
@@ -28,15 +28,15 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 
   * Benchmarck
 
-  ![Encuestas](assets/images/2.png)
-
-  *
+  ![Encuestas](assets/images/.png)
 
 ### Síntesis y Definición
 
   * ¿Qué debe proveer la compra de tickets para Teatro de Joinnus?
 
-  ![Entrevistas](assets/images/1.png)
+  ![Síntesis](assets/images/1.png)
+
+  ![Definición](assets/images/2.png)
 
 ## Detalles de la Propuesta (JOINNUS "TEATRO")
 
