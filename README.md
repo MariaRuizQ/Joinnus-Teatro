@@ -42,31 +42,35 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 
 ### User Persona:
 
-  ![Entrevistas](assets/images/1.png)
+  ![Entrevistas](assets/images/3.png)
+
+### Escenario:
+
+  ![Escenario](assets/images/4.png)
 
 ### Problem statements & How might we?
 
-  ![Entrevistas](assets/images/1.png)
+  ![Entrevistas](assets/images/.png)
 
 ### BMC:
 
-  ![Entrevistas](assets/images/1.png)
+  ![Entrevistas](assets/images/.png)
 
 ### Elementos que contendrá Joinnus "Teatro":
 
-  ![Entrevistas](assets/images/1.png)
+  ![Entrevistas](assets/images/.png)
 
 ### Objetivos de Joinnus "Teatro":
 
-  ![Entrevistas](assets/images/1.png)
+  ![Entrevistas](assets/images/.png)
 
 ### Ventajas y beneficios que Joinnus "Teatro" debe ofrecer:
 
-  ![Entrevistas](assets/images/1.png)
+  ![Entrevistas](assets/images/.png)
 
 ### Ideación:
 
-  ![Entrevistas](assets/images/1.png)
+  ![Entrevistas](assets/images/.png)
 
 ## Prototipado
 
