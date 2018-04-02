@@ -50,7 +50,7 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 
 ### Problem statements & How might we?
 
-  ![Entrevistas](assets/images/.png)
+  ![Entrevistas](assets/images/5.png)
 
 ### BMC:
 
