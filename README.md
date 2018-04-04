@@ -58,15 +58,15 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 
 ### Elementos que contendrá Joinnus "Teatro":
 
-  ![Entrevistas](assets/images/.png)
+  ![Entrevistas](assets/images/6.png)
 
 ### Objetivos de Joinnus "Teatro":
 
-  ![Entrevistas](assets/images/.png)
+  ![Entrevistas](assets/images/7.png)
 
 ### Ventajas y beneficios que Joinnus "Teatro" debe ofrecer:
 
-  ![Entrevistas](assets/images/.png)
+  ![Entrevistas](assets/images/8.png)
 
 ### Ideación:
 
@@ -76,11 +76,9 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 
 ### Actividades:
 
-  *
+  * Se utilizó Figma para el desarrollo de las vistas.
 
-  *
-
-  *
+  * Se utilizó Marv el para darle interacción a las vistas del Prototipo.
 
 ### Prototipo Alta Fidelidad Deskopt:
 
@@ -93,3 +91,13 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 ## Testing
 
 ### Feedback:
+
+  * Se realizacisó iteraciones con 5 amantes del teatro (Miriam Germán Karts / Laura Yramátegui Lozano / Mauricio Malpartida Morales/ Franco Finocchiaro / Teresa Quispe Espino).
+
+  * Al usuario le pareció agradeble la visualización  de la información.
+
+  * Le agradó lo ilustrativo del plano del teatro.
+
+  * Se perdía un poco, si decidía elegir otro sector.
+
+  * No sabría cómo elegir entradas de diferentes sectores en una misma transacción.
