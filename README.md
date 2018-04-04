@@ -84,7 +84,7 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 
 ### Prototipo Alta Fidelidad Deskopt:
 
-  [Ver Prototipo Deskopt](hhh)
+  [Ver Prototipo Deskopt](https://marvelapp.com/6661bid/screen/40659285)
 
 ### Prototipo Alta Fidelidad Movil:
 
