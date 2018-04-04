@@ -24,11 +24,11 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 
 ### Etapa Previa:
 
-  * Recolección de Información Previa:
+#### Recolección de Información Previa:
 
   * Benchmarck
 
-  ![Encuestas](assets/images/.png)
+  ![Encuestas](assets/images/9.png)
 
 ### Síntesis y Definición
 
@@ -54,7 +54,7 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 
 ### BMC:
 
-  ![Entrevistas](assets/images/.png)
+  ![BMC](assets/images/.png)
 
 ### Elementos que contendrá Joinnus "Teatro":
 
