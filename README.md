@@ -16,7 +16,7 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 
   * Conclusiones de las Entrevistas
 
-  ![Entrevistas](assets/images/.png)
+  ![Entrevistas](assets/images/10.png)
 
   * Resultados de las encuestas online
 
@@ -86,7 +86,7 @@ Joinnus es una plataforma digital que congrega la mayor cantidad de eventos del 
 
 ### Prototipo Alta Fidelidad Movil:
 
-  [Ver Prototipo Movil](h)
+  [Ver Prototipo Movil](https://marvelapp.com/ccf6944/screen/40685244)
 
 ## Testing
 
